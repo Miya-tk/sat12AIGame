@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b253368b9727604d8192a56e7f9babf, type: 3}
+  m_Name: PowerUpItem
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "\u30AF\u30EA\u30C3\u30AF\u30D1\u30EF\u30FC"
+  baseCost: 10
+  scorePerClick: 2
